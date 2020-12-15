@@ -1,1 +1,1 @@
-Implementing Data Structures using Java - not used pre-defined functions
+Implementing Data Structures using Java - Did not use pre-defined functions.
